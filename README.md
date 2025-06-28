@@ -6,7 +6,7 @@
 
 ---
 
-⭐ **Open to AI/ML Engineering roles** - Check out my pinned repositories for a view of my projects!
+⭐ **Open to AI/ML Engineering and Data Science roles** - Check out my pinned repositories for a view of my projects!
 
 ---
 
@@ -25,7 +25,7 @@
 - **Cloud**: AWS (Bedrock, Kendra) • Azure ML • Docker • CI/CD  
 - **Languages**: Python • SQL • TypeScript  
 
-**Certifications**: AWS Solutions Architect Associate • Azure Fundamentals
+- **Certifications**: AWS Solutions Architect Associate • Azure Fundamentals
 
 ---
 ### Passionate about translating complex AI challenges into real-world impact. Always excited to discuss new opportunities!

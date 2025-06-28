@@ -12,18 +12,18 @@
 
 ## 🚀 Experience Highlights
 
-**Government AI Solutions** - Built FedRAMP-compliant multi-agent systems for HHS & Massachusetts State agencies  
-**Enterprise ML** - Reduced overstock 15% & boosted profitability 8% for global sportswear brand  
-**Healthcare AI** - Built an automated document redaction platform leveraged by 200+ enterprise clients with 80% efficiency
-**Technical Leadership** - Mentored 10+ students building GenAI tools, delivering 5 production solutions showcased at state events
+- **Government AI Solutions** - Built FedRAMP-compliant multi-agent systems for HHS & Massachusetts State agencies  
+- **Enterprise ML** - Reduced overstock 15% & boosted profitability 8% for global sportswear brand  
+- **Healthcare AI** - Built an automated document redaction platform leveraged by 200+ enterprise clients with 80% efficiency
+- **Technical Leadership** - Mentored 10+ students building GenAI tools, delivering 5 production solutions showcased at state events
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI/ML**: LLMs (OpenAI, Claude, Llama) • RAG • AI Agents • PyTorch • TensorFlow • RAGAS  
-**Cloud**: AWS (Bedrock, Kendra) • Azure ML • Docker • CI/CD  
-**Languages**: Python • SQL • TypeScript  
+- **AI/ML**: LLMs (OpenAI, Claude, Llama) • RAG • AI Agents • PyTorch • TensorFlow • RAGAS  
+- **Cloud**: AWS (Bedrock, Kendra) • Azure ML • Docker • CI/CD  
+- **Languages**: Python • SQL • TypeScript  
 
 **Certifications**: AWS Solutions Architect Associate • Azure Fundamentals
 

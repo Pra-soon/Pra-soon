@@ -2,7 +2,7 @@
 
 **4+ years building production AI systems | Recent MS in Applied Machine Intelligence | Open to opportunities**
 
-📧 prasoon.raj.041@gmail.com | 📍 Boston, MA | [LinkedIn](https://www.linkedin.com/in/prasoon-raj-902/) | [Portfolio](https://prasoon-raj.streamlit.app/)
+📧 prasoon.raj.041@gmail.com | [LinkedIn](https://www.linkedin.com/in/prasoon-raj-902/) | [Portfolio](https://prasoon-raj.streamlit.app/)
 
 ---
 
